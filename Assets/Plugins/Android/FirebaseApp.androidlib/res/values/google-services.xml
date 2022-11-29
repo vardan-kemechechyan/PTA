@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">298337673830</string>
+  <string name="google_storage_bucket" translatable="false">park-them-all.appspot.com</string>
+  <string name="project_id" translatable="false">park-them-all</string>
+  <string name="google_api_key" translatable="false">AIzaSyCwb6GUkUPE4aVCanfOGHNmtmbDdUiEu04</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCwb6GUkUPE4aVCanfOGHNmtmbDdUiEu04</string>
+  <string name="google_app_id" translatable="false">1:298337673830:android:c07d0ba9f6635274a203a7</string>
+  <string name="default_web_client_id" translatable="false">298337673830-l5i0gugkrshb4v7fqaiaal01gp5o0qaa.apps.googleusercontent.com</string>
+</resources>

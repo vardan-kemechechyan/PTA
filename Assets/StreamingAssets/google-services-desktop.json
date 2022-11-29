@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "298337673830",
+    "project_id": "park-them-all",
+    "storage_bucket": "park-them-all.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298337673830:android:c07d0ba9f6635274a203a7",
+        "android_client_info": {
+          "package_name": "com.weave.parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298337673830-l5i0gugkrshb4v7fqaiaal01gp5o0qaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwb6GUkUPE4aVCanfOGHNmtmbDdUiEu04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298337673830-l5i0gugkrshb4v7fqaiaal01gp5o0qaa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298337673830-hb2fr0nc1v1bmq1hpa8ah01kk81gnjqh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.weave.parking"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7710831756957709~3642886134"
+    }
+  ],
+  "configuration_version": "1"
+}
